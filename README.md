@@ -1,17 +1,21 @@
 # Homer dashboard
 
-meine "Homer" Dashboard seite mit Tools & Links, die ich häufig verwende.
+my "Homer" dashboard page with tools & links I use frequently.
 
-erreichbar unter:
+Source: https://github.com/bastienwirtz/homer
+
+accessible at:
 https://dashboard.depp-im.net
 
 ----------
 
 # Homer dashboard
 
-my "Homer" dashboard page with tools & links I use frequently.
+meine "Homer" Dashboard Website mit Tools & Links, die ich häufig verwende.
 
-accessible at:
+Source: https://github.com/bastienwirtz/homer
+
+erreichbar unter:
 https://dashboard.depp-im.net
 
 
