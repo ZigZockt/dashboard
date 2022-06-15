@@ -129,7 +129,7 @@ services:
         logo: "assets/tools/globe.png"
         subtitle: "Domain Verwaltung"
         tag: "Gui"
-        url: "https://my.resellerinterface.de/dashboard"
+        url: "https://dns.nerdscave-productions.de"
         target: "_blank" # optional html a tag target attribute
         
       - name: "Webhosting-Minerswin"
